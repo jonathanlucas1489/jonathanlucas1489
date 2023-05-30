@@ -3,7 +3,7 @@
 <h4>I am 25 years old, a Computer Science student and I have as main objective to improve my knowledge in
 different areas of programming languages, having greater interest in the area of Web and mobile development. 
 
-I i'm a very enthusiast of technology, computer science and its applications. I love reading and learning everything, fond of art, literature, music and enthusiast of space exploration too. As a Student and developer, i try to improve and learn the systems developement process.</h4>
+I i'm a very enthusiast of technology, computer science and its applications. I love reading and learning everything, fond of art, literature, music. As a Student and developer, i try to improve and learn the systems developement process.</h4>
 
 - 🔭 I’m currently working on "Rei do pitaco"
 - 🌱 I’m currently learning Flutter
